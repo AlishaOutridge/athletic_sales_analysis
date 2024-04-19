@@ -22,7 +22,6 @@ Clone this repository to your local machine using:
 
 ```bash
 git clone https://github.com/AlishaOutridge/athletic_sales_analysis.git
-```
 
 ## Usage
 
@@ -36,11 +35,10 @@ Run the cells sequentially to see the analysis results.
 
 ## Key Analyses
 
-Combining and Cleaning Data: The data from 2020 and 2021 are combined and cleaned for consistency and usability.
-Sales by Region:# Analysis of which regions in the U.S. sold the most products.
-Top Retailers:# Identifying top retailers by sales volume.
-Peak Sales Days and Weeks:# Determining which days and weeks had the highest sales for women's athletic footwear.
-
+- **Combining and Cleaning Data**: The data from 2020 and 2021 are combined and cleaned for consistency and usability.
+- **Sales by Region**: Analysis of which regions in the U.S. sold the most products.
+- **Top Retailers**: Identifying top retailers by sales volume.
+- **Peak Sales Days and Weeks**: Determining which days and weeks had the highest sales for women's athletic footwear.
 
 ## Contributions
 
