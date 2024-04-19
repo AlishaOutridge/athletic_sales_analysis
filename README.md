@@ -26,7 +26,7 @@ git clone https://github.com/AlishaOutridge/athletic_sales_analysis.git
 
 Navigate to the project directory and open the Jupyter notebook:
 
-```Copy code
+- **Copy code**
 cd athletic_sales_analysis
 jupyter notebook athletic_sales_analysis_starter_code.ipynb```
 
