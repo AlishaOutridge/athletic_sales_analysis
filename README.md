@@ -28,8 +28,9 @@ Navigate to the project directory and open the Jupyter notebook:
 
 - **Copy code**
 cd athletic_sales_analysis
-jupyter notebook athletic_sales_analysis_starter_code.ipynb```
-
+- **Open Jupyter Notebook**
+jupyter notebook athletic_sales_analysis_starter_code.ipynb
+- **Work withing Jupyter Notebook**
 Run the cells sequentially to see the analysis results.
 
 ## Key Analyses
