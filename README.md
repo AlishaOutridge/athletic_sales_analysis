@@ -20,7 +20,6 @@ To run this project, you need to have Python installed on your machine along wit
 
 Clone this repository to your local machine using:
 
-```bash
 git clone https://github.com/AlishaOutridge/athletic_sales_analysis.git
 
 ## Usage
